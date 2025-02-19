@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1739806703 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\campeonato_football\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<string.h>
+	<iostream>
+	<iomanip>
+	<map>
+
