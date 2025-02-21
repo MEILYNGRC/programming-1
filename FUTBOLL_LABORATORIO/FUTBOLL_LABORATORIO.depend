@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1740151060 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\futboll_laboratorio\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
