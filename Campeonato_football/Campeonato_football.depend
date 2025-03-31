@@ -1,10 +1,16 @@
 # depslib dependency file v1.0
-1739806703 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\campeonato_football\main.cpp
-	<stdio.h>
-	<stdlib.h>
-	<unistd.h>
-	<string.h>
+1743394671 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\campeonato_football\main.cpp
+	"football.h"
+	<iostream>
+	<ctime>
+
+1743394671 source:c:\users\usuario\onedrive\escritorio\progra12025\progra\campeonato_football\src\football.cpp
+	"football.h"
 	<iostream>
 	<iomanip>
-	<map>
+	<cstdlib>
+	<ctime>
+
+1743394671 c:\users\usuario\onedrive\escritorio\progra12025\progra\campeonato_football\include\football.h
+	<string>
 
